@@ -1,0 +1,28 @@
+{
+  "tictactoe": {
+    "random": {
+      "seed": 2
+    },
+    "minimax": {
+      "depth": 3
+    },
+    "max_n": {
+      "depth": 3
+    },
+    "human": {}
+  },
+  "chess": {
+    "random": {
+      "seed": null
+    },
+    "minimax": {
+      "depth": 3
+    },
+    "human": {}
+  },
+  "rock-paper-scissors": {
+    "random": {
+      "seed": null
+    }
+  }
+}

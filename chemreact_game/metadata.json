@@ -1,0 +1,5 @@
+{
+  "name": "ChemReact",
+  "description": "A Candy Crush-style chemistry puzzle game where you solve reaction chains to progress through levels.",
+  "requestFramePermissions": []
+}

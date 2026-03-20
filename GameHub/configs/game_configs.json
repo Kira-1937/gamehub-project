@@ -1,0 +1,23 @@
+{
+  "tictactoe": {
+    "name": "tictactoe",
+    "defaults": {
+      "board_size": 3
+    },
+    "description": "Classic 3x3 Tic-Tac-Toe with sequential turns."
+  },
+  "chess": {
+    "name": "chess",
+    "defaults": {
+      "starting_fen": "standard"
+    },
+    "description": "Standard chess with sequential turns and UCI move input."
+  },
+  "rock-paper-scissors": {
+    "name": "rock-paper-scissors",
+    "defaults": {
+      "rounds": 5
+    },
+    "description": "Simultaneous rock-paper-scissors best-of series."
+  }
+}

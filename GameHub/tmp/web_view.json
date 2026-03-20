@@ -1,0 +1,8 @@
+{
+  "type": "MatchEnded",
+  "result": {
+    "black": 1.0,
+    "white": -1.0
+  },
+  "state": "<games.chess.state.ChessState object at 0x7f17bf4c1a40>"
+}
